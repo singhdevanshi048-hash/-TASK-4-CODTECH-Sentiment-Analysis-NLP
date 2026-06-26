@@ -180,12 +180,4 @@ Special thanks to **CODTECH IT Solutions** for providing this internship opportu
 
 ---
 
-## 📬 Contact
-
-**Devanshi Singh**
-
-GitHub: https://github.com/singhdevanshi048-hash
-
----
-
 ⭐ If you found this project helpful, don't forget to **Star** this repository.
